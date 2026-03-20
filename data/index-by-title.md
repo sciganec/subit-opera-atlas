@@ -1,164 +1,199 @@
 # Index by Title
 ## Алфавітний покажчик опер
-### Формат: *title — composer — WHO / WHERE / WHEN*
+### Формат: *composer — year — premiere_city — WHO / WHERE / WHEN*
 
 ---
 
 ## A
-- **Aida** — Verdi — WE / NORTH / SPRING  
-- **Akhnaten** — Glass — THEY / NORTH / SUMMER  
-- **Alceste** — Gluck — ME / NORTH / WINTER  
-- **Alcina** — Handel — YOU / WEST / SPRING  
-- **Anna Bolena** — Donizetti — ME / NORTH / SPRING  
-- **Antigonae** — Orff — THEY / SOUTH / WINTER  
-- **Ariadne auf Naxos** — Strauss — ME / EAST / SUMMER  
-- **Armide** — Gluck — YOU / EAST / AUTUMN  
+- Adriana Mater — Saariaho — 2006 — Paris — YOU / SOUTH / AUTUMN  
+- Aida — Verdi — 1871 — Cairo — WE / NORTH / SPRING  
+- Alceste — Gluck — 1767 — Vienna — ME / NORTH / WINTER  
+- Alcina — Handel — 1735 — London — YOU / WEST / SPRING  
+- Anna Bolena — Donizetti — 1830 — Milan — ME / NORTH / SPRING  
+- Antigonae — Orff — 1949 — Salzburg — THEY / SOUTH / WINTER  
+- Ariodante — Handel — 1735 — London — ME / WEST / SPRING  
+- Arsenal — Maiboroda — 1960 — Kyiv — WE / EAST / WINTER  
+
+---
 
 ## B
-- **Boris Godunov** — Mussorgsky — WE / SOUTH / SUMMER  
-- **Billy Budd** — Britten — WE / SOUTH / SUMMER  
-- **Bluebeard’s Castle** — Bartók — YOU / WEST / WINTER  
+- Billy Budd — Britten — 1951 — London — WE / SOUTH / SUMMER  
+- Bluebeard’s Castle — Bartók — 1918 — Budapest — YOU / WEST / WINTER  
+- Boris Godunov — Mussorgsky — 1874 — St Petersburg — WE / SOUTH / SUMMER  
+
+---
 
 ## C
-- **Carmen** — Bizet — YOU / EAST / SUMMER  
-- **Carmina Burana** — Orff — WE / SOUTH / SUMMER  
-- **Così fan tutte** — Mozart — YOU / SOUTH / SPRING  
+- Carmen — Bizet — 1875 — Paris — YOU / EAST / SUMMER  
+- Carmina Burana — Orff — 1937 — Frankfurt — WE / SOUTH / SUMMER  
+- Così fan tutte — Mozart — 1790 — Vienna — YOU / SOUTH / SPRING  
+
+---
 
 ## D
-- **Death in Venice** — Britten — THEY / SOUTH / AUTUMN  
-- **Der Freischütz** — Weber — ME / WEST / SPRING  
-- **Der fliegende Holländer** — Wagner — THEY / EAST / AUTUMN  
-- **Dialogues des Carmélites** — Poulenc — WE / EAST / AUTUMN  
-- **Die Entführung aus dem Serail** — Mozart — ME / EAST / SUMMER  
-- **Die glückliche Hand** — Schoenberg — ME / NORTH / WINTER  
-- **Die Soldaten** — Zimmermann — WE / WEST / WINTER  
-- **Dido and Aeneas** — Purcell — YOU / WEST / AUTUMN  
-- **Don Carlos** — Verdi — THEY / WEST / AUTUMN  
-- **Don Giovanni** — Mozart — YOU / EAST / SPRING  
-- **Don Pasquale** — Donizetti — YOU / WEST / SPRING  
+- Death in Venice — Britten — 1973 — London — THEY / SOUTH / AUTUMN  
+- Dialogues des Carmélites — Poulenc — 1957 — Milan — WE / EAST / AUTUMN  
+- Dido and Aeneas — Purcell — 1689 — London — YOU / WEST / AUTUMN  
+- Die Entführung aus dem Serail — Mozart — 1782 — Vienna — ME / EAST / SUMMER  
+- Die glückliche Hand — Schoenberg — 1924 — Vienna — ME / NORTH / WINTER  
+- Die Soldaten — Zimmermann — 1965 — Cologne — WE / WEST / WINTER  
+- Don Carlos — Verdi — 1867 — Paris — THEY / WEST / AUTUMN  
+- Don Giovanni — Mozart — 1787 — Prague — YOU / EAST / SPRING  
+- Don Pasquale — Donizetti — 1843 — Paris — YOU / WEST / SPRING  
+
+---
 
 ## E
-- **Einstein on the Beach** — Glass — THEY / NORTH / SPRING  
-- **Elektra** — Strauss — WE / NORTH / WINTER  
-- **Erwartung** — Schoenberg — ME / WEST / WINTER  
-- **Eugene Onegin** — Tchaikovsky — ME / WEST / SUMMER  
+- Einstein on the Beach — Glass — 1976 — Avignon — THEY / NORTH / SPRING  
+- Eneida — Lysenko — 1910 — Kyiv — ME / SOUTH / SPRING  
+- Erwartung — Schoenberg — 1924 — Prague — ME / WEST / WINTER  
+
+---
 
 ## F
-- **Falstaff** — Verdi — ME / EAST / AUTUMN  
-- **Faust** — Gounod — ME / NORTH / SPRING  
+- Falstaff — Verdi — 1893 — Milan — ME / EAST / AUTUMN  
+- Faust — Gounod — 1859 — Paris — ME / NORTH / SPRING  
+
+---
 
 ## G
-- **Gawain** — Birtwistle — ME / SOUTH / SUMMER  
-- **Gianni Schicchi** — Puccini — ME / SOUTH / SUMMER  
-- **Giulio Cesare** — Handel — YOU / NORTH / SPRING  
-- **Götterdämmerung** — Wagner — THEY / NORTH / SUMMER  
+- Gianni Schicchi — Puccini — 1918 — New York — ME / SOUTH / SUMMER  
+- Giulio Cesare — Handel — 1724 — London — YOU / NORTH / SPRING  
+- Götterdämmerung — Wagner — 1876 — Bayreuth — THEY / NORTH / SUMMER  
 
-## H
-- **Hérodiade** — Massenet — THEY / SOUTH / AUTUMN  
+---
 
 ## I
-- **Idomeneo** — Mozart — ME / EAST / SUMMER  
-- **Il ritorno d’Ulisse in patria** — Monteverdi — ME / EAST / AUTUMN  
-- **Il tabarro** — Puccini — ME / WEST / AUTUMN  
-- **Iolanta** — Tchaikovsky — ME / EAST / SPRING  
-- **Iphigénie en Tauride** — Gluck — ME / NORTH / AUTUMN  
-- **I puritani** — Bellini — YOU / SOUTH / AUTUMN  
+- Idomeneo — Mozart — 1781 — Munich — ME / EAST / SUMMER  
+- Il ritorno d’Ulisse in patria — Monteverdi — 1640 — Venice — ME / EAST / AUTUMN  
+- Il tabarro — Puccini — 1918 — New York — ME / WEST / AUTUMN  
+- Il trovatore — Verdi — 1853 — Rome — ME / SOUTH / SUMMER  
+- Iolanta — Tchaikovsky — 1892 — St Petersburg — ME / EAST / SPRING  
+- I puritani — Bellini — 1835 — Paris — YOU / SOUTH / AUTUMN  
+
+---
 
 ## J
-- **Jenůfa** — Janáček — ME / WEST / AUTUMN  
-- **Julietta** — Martinů — ME / WEST / AUTUMN  
+- Jenůfa — Janáček — 1904 — Brno — ME / WEST / AUTUMN  
+
+---
 
 ## K
-- **Káťa Kabanová** — Janáček — YOU / WEST / AUTUMN  
-- **Katerina Izmailova** — Shostakovich — WE / EAST / WINTER  
-- **King Arthur** — Purcell — WE / NORTH / SPRING  
-- **King Priam** — Tippett — ME / NORTH / WINTER  
-- **Khovanshchina** — Mussorgsky — WE / SOUTH / AUTUMN  
+- Kateryna — Arkas — 1899 — Mykolaiv — ME / SOUTH / AUTUMN  
+- Káťa Kabanová — Janáček — 1921 — Brno — YOU / WEST / AUTUMN  
+- Katerina Izmailova — Shostakovich — 1963 — Moscow — WE / EAST / WINTER  
+- King Arthur — Purcell — 1691 — London — WE / NORTH / SPRING  
+- King Priam — Tippett — 1962 — Coventry — ME / NORTH / WINTER  
+- King Roger — Szymanowski — 1926 — Warsaw — ME / NORTH / WINTER  
+- Khovanshchina — Mussorgsky — 1886 — Moscow — WE / SOUTH / AUTUMN  
+
+---
 
 ## L
-- **La Bohème** — Puccini — ME / WEST / SUMMER  
-- **La clemenza di Tito** — Mozart — THEY / EAST / AUTUMN  
-- **La damnation de Faust** — Berlioz — ME / WEST / AUTUMN  
-- **La forza del destino** — Verdi — ME / WEST / AUTUMN  
-- **La sonnambula** — Bellini — YOU / SOUTH / AUTUMN  
-- **La traviata** — Verdi — ME / WEST / AUTUMN  
-- **Lady Macbeth of Mtsensk** — Shostakovich — YOU / EAST / WINTER  
-- **Lakmé** — Delibes — YOU / EAST / SUMMER  
-- **Le nozze di Figaro** — Mozart — ME / SOUTH / SPRING  
-- **Les pêcheurs de perles** — Bizet — ME / SOUTH / SUMMER  
-- **Les Troyens** — Berlioz — THEY / SOUTH / SPRING  
-- **Les vêpres siciliennes** — Verdi — WE / WEST / SUMMER  
-- **L’incoronazione di Poppea** — Monteverdi — ME / EAST / WINTER  
-- **Lohengrin** — Wagner — YOU / WEST / AUTUMN  
-- **L’Orfeo** — Monteverdi — ME / EAST / SPRING  
-- **Lucia di Lammermoor** — Donizetti — WE / WEST / SPRING  
-- **Lucio Silla** — Mozart — ME / EAST / SPRING  
-- **Lulu** — Berg — THEY / WEST / SUMMER  
+- La Bohème — Puccini — 1896 — Turin — ME / WEST / SUMMER  
+- La clemenza di Tito — Mozart — 1791 — Prague — THEY / EAST / AUTUMN  
+- La forza del destino — Verdi — 1862 — St Petersburg — ME / WEST / AUTUMN  
+- La sonnambula — Bellini — 1831 — Milan — YOU / SOUTH / AUTUMN  
+- La traviata — Verdi — 1853 — Venice — ME / WEST / AUTUMN  
+- Lady Macbeth of Mtsensk — Shostakovich — 1934 — Leningrad — YOU / EAST / WINTER  
+- L’Amour de loin — Saariaho — 2000 — Salzburg — YOU / WEST / AUTUMN  
+- L’elisir d’amore — Donizetti — 1832 — Milan — YOU / SOUTH / SPRING  
+- Lessons in Love and Violence — Benjamin — 2018 — London — ME / WEST / AUTUMN  
+- Les pêcheurs de perles — Bizet — 1863 — Paris — ME / SOUTH / SUMMER  
+- Les vêpres siciliennes — Verdi — 1855 — Paris — WE / WEST / SUMMER  
+- Le nozze di Figaro — Mozart — 1786 — Vienna — ME / SOUTH / SPRING  
+- Lohengrin — Wagner — 1850 — Weimar — YOU / WEST / AUTUMN  
+- L’Orfeo — Monteverdi — 1607 — Mantua — ME / EAST / SPRING  
+- L’incoronazione di Poppea — Monteverdi — 1643 — Venice — ME / EAST / WINTER  
+- Lucia di Lammermoor — Donizetti — 1835 — Naples — WE / WEST / SPRING  
+- Lucio Silla — Mozart — 1772 — Milan — ME / EAST / SPRING  
+- Lulu — Berg — 1937 — Zurich — THEY / WEST / SUMMER  
+
+---
 
 ## M
-- **Macbeth** — Verdi — THEY / WEST / AUTUMN  
-- **Madama Butterfly** — Puccini — ME / WEST / WINTER  
-- **Manon Lescaut** — Puccini — WE / WEST / SUMMER  
-- **Mefistofele** — Boito — THEY / WEST / SUMMER  
-- **Mitridate** — Mozart — ME / EAST / SPRING  
-- **Moses und Aron** — Schoenberg — THEY / NORTH / AUTUMN  
+- Macbeth — Verdi — 1847 — Florence — THEY / WEST / AUTUMN  
+- Manon Lescaut — Puccini — 1893 — Turin — WE / WEST / SUMMER  
+- Mylana — Maiboroda — 1957 — Kyiv — ME / SOUTH / SPRING  
+- Mitridate — Mozart — 1770 — Milan — ME / EAST / SPRING  
+- Moses — Skoryk — 2001 — Lviv — ME / EAST / WINTER  
+- Moses und Aron — Schoenberg — 1957 — Hamburg — THEY / NORTH / AUTUMN  
+
+---
 
 ## N
-- **Nabucco** — Verdi — WE / EAST / SPRING  
-- **Nixon in China** — Adams — WE / SOUTH / SUMMER  
-- **Norma** — Bellini — ME / NORTH / AUTUMN  
-- **The Nose** — Shostakovich — THEY / NORTH / WINTER  
+- Nabucco — Verdi — 1842 — Milan — WE / EAST / SPRING  
+- Natalka Poltavka — Lysenko — 1889 — Kyiv — WE / SOUTH / SPRING  
+- Nixon in China — Adams — 1987 — Houston — WE / SOUTH / SUMMER  
+- Norma — Bellini — 1831 — Milan — ME / NORTH / AUTUMN  
+- The Nose — Shostakovich — 1930 — Leningrad — THEY / NORTH / WINTER  
+
+---
 
 ## O
-- **Oberon** — Weber — ME / EAST / SUMMER  
-- **Orfeo ed Euridice** — Gluck — THEY / EAST / SPRING  
-- **Otello** — Verdi — ME / SOUTH / SUMMER  
+- Oberon — Weber — 1826 — London — ME / EAST / SUMMER  
+- Only the Sound Remains — Saariaho — 2016 — Amsterdam — THEY / NORTH / WINTER  
+- Orfeo ed Euridice — Gluck — 1762 — Vienna — THEY / EAST / SPRING  
+- Otello — Verdi — 1887 — Milan — ME / SOUTH / SUMMER  
+
+---
 
 ## P
-- **Pagliacci** — Leoncavallo — WE / WEST / WINTER  
-- **Parsifal** — Wagner — ME / NORTH / SUMMER  
-- **Pelléas et Mélisande** — Debussy — ME / EAST / AUTUMN  
-- **Peter Grimes** — Britten — ME / NORTH / AUTUMN  
-- **Powder Her Face** — Adès — YOU / WEST / SUMMER  
-- **Prince Igor** — Borodin — WE / NORTH / AUTUMN  
-- **Punch and Judy** — Birtwistle — ME / WEST / SUMMER  
+- Parsifal — Wagner — 1882 — Bayreuth — ME / NORTH / SUMMER  
+- Pelléas et Mélisande — Debussy — 1902 — Paris — ME / EAST / AUTUMN  
+- Peter Grimes — Britten — 1945 — London — ME / NORTH / AUTUMN  
+- Powder Her Face — Adès — 1995 — London — YOU / WEST / SUMMER  
+- Prince Igor — Borodin — 1890 — St Petersburg — WE / NORTH / AUTUMN  
+- Punch and Judy — Birtwistle — 1968 — Aldeburgh — ME / WEST / SUMMER  
+
+---
 
 ## R
-- **Rigoletto** — Verdi — YOU / EAST / AUTUMN  
-- **Roméo et Juliette** — Gounod — ME / WEST / SPRING  
+- Rigoletto — Verdi — 1851 — Venice — YOU / EAST / AUTUMN  
+- Roméo et Juliette — Gounod — 1867 — Paris — ME / WEST / SPRING  
+
+---
 
 ## S
-- **Salome** — Strauss — WE / NORTH / AUTUMN  
-- **Samson et Dalila** — Saint-Saëns — ME / SOUTH / AUTUMN  
-- **Satyagraha** — Glass — WE / NORTH / SUMMER  
-- **Siegfried** — Wagner — THEY / SOUTH / SUMMER  
-- **Simon Boccanegra** — Verdi — THEY / WEST / WINTER  
-- **Suor Angelica** — Puccini — YOU / NORTH / AUTUMN  
+- Satyagraha — Glass — 1980 — Rotterdam — WE / NORTH / SUMMER  
+- Siegfried — Wagner — 1876 — Bayreuth — THEY / SOUTH / SUMMER  
+- Simon Boccanegra — Verdi — 1857 — Venice — THEY / WEST / WINTER  
+- Suor Angelica — Puccini — 1918 — New York — YOU / NORTH / AUTUMN  
+
+---
 
 ## T
-- **Tannhäuser** — Wagner — YOU / NORTH / SUMMER  
-- **The Death of Klinghoffer** — Adams — WE / WEST / AUTUMN  
-- **The Exterminating Angel** — Adès — THEY / NORTH / WINTER  
-- **The Fairy Queen** — Purcell — WE / WEST / SUMMER  
-- **The Lighthouse** — Maxwell Davies — THEY / WEST / WINTER  
-- **The Makropulos Affair** — Janáček — ME / NORTH / AUTUMN  
-- **The Mask of Orpheus** — Birtwistle — THEY / NORTH / SUMMER  
-- **The Minotaur** — Birtwistle — THEY / WEST / WINTER  
-- **The Midsummer Marriage** — Tippett — THEY / NORTH / SUMMER  
-- **The Nose** — Shostakovich — THEY / NORTH / WINTER  
-- **The Queen of Spades** — Tchaikovsky — ME / SOUTH / WINTER  
-- **The Tempest** — Adès — THEY / EAST / SUMMER  
-- **The Turn of the Screw** — Britten — ME / WEST / WINTER  
-- **The Greek Passion** — Martinů — WE / NORTH / AUTUMN  
-- **Tristan und Isolde** — Wagner — YOU / WEST / SUMMER  
-- **Turandot** — Puccini — WE / NORTH / SUMMER  
+- Tannhäuser — Wagner — 1845 — Dresden — YOU / NORTH / SUMMER  
+- Taras Bulba — Lysenko — 1890 — Kyiv — WE / SOUTH / SUMMER  
+- The Consul — Menotti — 1950 — Philadelphia — YOU / NORTH / WINTER  
+- The Death of Klinghoffer — Adams — 1991 — Brussels — WE / WEST / AUTUMN  
+- The Exterminating Angel — Adès — 2016 — Salzburg — THEY / NORTH / WINTER  
+- The Fairy Queen — Purcell — 1692 — London — WE / WEST / SUMMER  
+- The Greek Passion — Martinů — 1961 — Zurich — WE / NORTH / AUTUMN  
+- The Lighthouse — Maxwell Davies — 1980 — Edinburgh — THEY / WEST / WINTER  
+- The Makropulos Affair — Janáček — 1926 — Brno — ME / NORTH / AUTUMN  
+- The Mask of Orpheus — Birtwistle — 1986 — London — THEY / NORTH / SUMMER  
+- The Minotaur — Birtwistle — 2008 — London — THEY / WEST / WINTER  
+- The Nose — Shostakovich — 1930 — Leningrad — THEY / NORTH / WINTER  
+- The Queen of Spades — Tchaikovsky — 1890 — St Petersburg — ME / SOUTH / WINTER  
+- The Tempest — Adès — 2004 — London — THEY / EAST / SUMMER  
+- The Turn of the Screw — Britten — 1954 — Venice — ME / WEST / WINTER  
+- Tristan und Isolde — Wagner — 1865 — Munich — YOU / WEST / SUMMER  
+- Tsvit paporoti — Stankovych — 2011 — Lviv — WE / SOUTH / SUMMER  
+
+---
 
 ## U
-- **Un ballo in maschera** — Verdi — YOU / WEST / SPRING  
+- Utoplena — Lysenko — 1883 — Kyiv — ME / SOUTH / AUTUMN  
+
+---
 
 ## W
-- **War and Peace** — Prokofiev — WE / SOUTH / WINTER  
-- **Werther** — Massenet — ME / WEST / AUTUMN  
-- **Wozzeck** — Berg — ME / EAST / WINTER  
-- **Written on Skin** — Benjamin — ME / WEST / AUTUMN  
+- War and Peace — Prokofiev — 1945 — Moscow — WE / SOUTH / WINTER  
+- Wozzeck — Berg — 1925 — Berlin — ME / EAST / WINTER  
+- Written on Skin — Benjamin — 2012 — Aix-en-Provence — ME / WEST / AUTUMN  
 
+---
+
+## Z
+- Zaporozhets za Dunayem — Hulak-Artemovsky — 1863 — St Petersburg — WE / SOUTH / SPRING  
