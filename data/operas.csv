@@ -3,64 +3,67 @@ L'Orfeo,Monteverdi,1607,Mantua,ME,EAST,SPRING
 Il ritorno d’Ulisse in patria,Monteverdi,1640,Venice,ME,EAST,AUTUMN
 L’incoronazione di Poppea,Monteverdi,1643,Venice,ME,EAST,WINTER
 Dido and Aeneas,Purcell,1689,London,YOU,WEST,AUTUMN
+King Arthur,Purcell,1691,London,WE,NORTH,SPRING
+The Fairy Queen,Purcell,1692,London,WE,WEST,SUMMER
 Giulio Cesare,Handel,1724,London,YOU,NORTH,SPRING
 Rodelinda,Handel,1725,London,YOU,NORTH,AUTUMN
 Alcina,Handel,1735,London,YOU,WEST,SPRING
+Ariodante,Handel,1735,London,ME,WEST,SPRING
+Serse,Handel,1738,London,YOU,WEST,SUMMER
+Orfeo ed Euridice,Gluck,1762,Vienna,THEY,EAST,SPRING
+Alceste,Gluck,1767,Vienna,ME,NORTH,WINTER
+Armide,Gluck,1777,Paris,YOU,EAST,AUTUMN
+Iphigénie en Tauride,Gluck,1779,Paris,ME,NORTH,AUTUMN
+Mitridate,Mozart,1770,Milan,ME,EAST,SPRING
+Lucio Silla,Mozart,1772,Milan,ME,EAST,SPRING
 Idomeneo,Mozart,1781,Munich,ME,EAST,SUMMER
 Die Entführung aus dem Serail,Mozart,1782,Vienna,ME,EAST,SUMMER
 Le nozze di Figaro,Mozart,1786,Vienna,ME,SOUTH,SPRING
 Don Giovanni,Mozart,1787,Prague,YOU,EAST,SPRING
 Così fan tutte,Mozart,1790,Vienna,YOU,SOUTH,SPRING
-Zaide,Mozart,1780,Salzburg,YOU,EAST,SPRING
-Mitridate,Mozart,1770,Milan,ME,EAST,SPRING
-Lucio Silla,Mozart,1772,Milan,ME,EAST,SPRING
-Orfeo ed Euridice,Gluck,1762,Vienna,THEY,EAST,SPRING
-Armide,Gluck,1777,Paris,YOU,EAST,AUTUMN
-Iphigénie en Tauride,Gluck,1779,Paris,ME,NORTH,AUTUMN
-La sonnambula,Bellini,1831,Milan,YOU,SOUTH,AUTUMN
-Norma,Bellini,1831,Milan,ME,NORTH,AUTUMN
-I puritani,Bellini,1835,Paris,YOU,SOUTH,AUTUMN
-Lucia di Lammermoor,Donizetti,1835,Naples,WE,WEST,SPRING
-L’elisir d’amore,Donizetti,1832,Milan,YOU,SOUTH,SPRING
+La clemenza di Tito,Mozart,1791,Prague,THEY,EAST,AUTUMN
+Der Freischütz,Weber,1821,Berlin,ME,WEST,SPRING
+Euryanthe,Weber,1823,Vienna,ME,EAST,AUTUMN
+Oberon,Weber,1826,London,ME,EAST,SUMMER
 Anna Bolena,Donizetti,1830,Milan,ME,NORTH,SPRING
-Lucrezia Borgia,Donizetti,1833,Milan,YOU,WEST,AUTUMN
-La traviata,Verdi,1853,Venice,ME,WEST,AUTUMN
+L’elisir d’amore,Donizetti,1832,Milan,YOU,SOUTH,SPRING
+Lucia di Lammermoor,Donizetti,1835,Naples,WE,WEST,SPRING
+Don Pasquale,Donizetti,1843,Paris,YOU,WEST,SPRING
+Norma,Bellini,1831,Milan,ME,NORTH,AUTUMN
+La sonnambula,Bellini,1831,Milan,YOU,SOUTH,AUTUMN
+I puritani,Bellini,1835,Paris,YOU,SOUTH,AUTUMN
+Nabucco,Verdi,1842,Milan,WE,EAST,SPRING
+Macbeth,Verdi,1847,Florence,THEY,WEST,AUTUMN
 Rigoletto,Verdi,1851,Venice,YOU,EAST,AUTUMN
 Il trovatore,Verdi,1853,Rome,ME,SOUTH,SUMMER
+La traviata,Verdi,1853,Venice,ME,WEST,AUTUMN
+Les vêpres siciliennes,Verdi,1855,Paris,WE,WEST,SUMMER
+Simon Boccanegra,Verdi,1857,Venice,THEY,WEST,WINTER
+Un ballo in maschera,Verdi,1859,Rome,YOU,WEST,SPRING
 La forza del destino,Verdi,1862,St Petersburg,ME,WEST,AUTUMN
+Don Carlos,Verdi,1867,Paris,THEY,WEST,AUTUMN
 Aida,Verdi,1871,Cairo,WE,NORTH,SPRING
 Otello,Verdi,1887,Milan,ME,SOUTH,SUMMER
 Falstaff,Verdi,1893,Milan,ME,EAST,AUTUMN
-Carmen,Bizet,1875,Paris,YOU,EAST,SUMMER
-Roméo et Juliette,Gounod,1867,Paris,ME,WEST,SPRING
-Faust,Gounod,1859,Paris,ME,NORTH,SPRING
-Samson et Dalila,Saint-Saëns,1877,Weimar,ME,SOUTH,AUTUMN
-Mefistofele,Boito,1868,Milan,THEY,WEST,SUMMER
-La Bohème,Puccini,1896,Turin,ME,WEST,SUMMER
-Tosca,Puccini,1900,Rome,ME,WEST,SUMMER
-Madama Butterfly,Puccini,1904,Brescia,ME,WEST,WINTER
-Manon Lescaut,Puccini,1893,Turin,WE,WEST,SUMMER
-Turandot,Puccini,1926,Milan,WE,NORTH,SUMMER
-Gianni Schicchi,Puccini,1918,New York,ME,SOUTH,SUMMER
-Suor Angelica,Puccini,1918,New York,YOU,NORTH,AUTUMN
-Il tabarro,Puccini,1918,New York,ME,WEST,AUTUMN
-Der Freischütz,Weber,1821,Berlin,ME,WEST,SPRING
-Oberon,Weber,1826,London,ME,EAST,SUMMER
 Der fliegende Holländer,Wagner,1843,Dresden,THEY,EAST,AUTUMN
 Tannhäuser,Wagner,1845,Dresden,YOU,NORTH,SUMMER
 Lohengrin,Wagner,1850,Weimar,YOU,WEST,AUTUMN
 Tristan und Isolde,Wagner,1865,Munich,YOU,WEST,SUMMER
 Die Walküre,Wagner,1870,Munich,YOU,SOUTH,WINTER
+Das Rheingold,Wagner,1869,Munich,THEY,NORTH,SPRING
 Siegfried,Wagner,1876,Bayreuth,THEY,SOUTH,SUMMER
 Götterdämmerung,Wagner,1876,Bayreuth,THEY,NORTH,SUMMER
-Das Rheingold,Wagner,1869,Munich,THEY,NORTH,SPRING
 Parsifal,Wagner,1882,Bayreuth,ME,NORTH,SUMMER
+Carmen,Bizet,1875,Paris,YOU,EAST,SUMMER
+Les pêcheurs de perles,Bizet,1863,Paris,ME,SOUTH,SUMMER
+Faust,Gounod,1859,Paris,ME,NORTH,SPRING
+Roméo et Juliette,Gounod,1867,Paris,ME,WEST,SPRING
+Boris Godunov,Mussorgsky,1874,St Petersburg,WE,SOUTH,SUMMER
+Khovanshchina,Mussorgsky,1886,Moscow,WE,SOUTH,AUTUMN
+Prince Igor,Borodin,1890,St Petersburg,WE,NORTH,AUTUMN
 Eugene Onegin,Tchaikovsky,1879,Moscow,ME,WEST,SUMMER
 The Queen of Spades,Tchaikovsky,1890,St Petersburg,ME,SOUTH,WINTER
 Iolanta,Tchaikovsky,1892,St Petersburg,ME,EAST,SPRING
-Prince Igor,Borodin,1890,St Petersburg,WE,NORTH,AUTUMN
-Boris Godunov,Mussorgsky,1874,St Petersburg,WE,SOUTH,SUMMER
-Khovanshchina,Mussorgsky,1886,Moscow,WE,SOUTH,AUTUMN
 Pelléas et Mélisande,Debussy,1902,Paris,ME,EAST,AUTUMN
 Jenůfa,Janáček,1904,Brno,ME,WEST,AUTUMN
 Káťa Kabanová,Janáček,1921,Brno,YOU,WEST,AUTUMN
@@ -78,34 +81,46 @@ Katerina Izmailova,Shostakovich,1963,Moscow,WE,EAST,WINTER
 Carmina Burana,Orff,1937,Frankfurt,WE,SOUTH,SUMMER
 Antigonae,Orff,1949,Salzburg,THEY,SOUTH,WINTER
 Dialogues des Carmélites,Poulenc,1957,Milan,WE,EAST,AUTUMN
-Einstein on the Beach,Glass,1976,Avignon,THEY,NORTH,SPRING
-Akhnaten,Glass,1984,Stuttgart,THEY,NORTH,SUMMER
-Satyagraha,Glass,1980,Rotterdam,WE,NORTH,SUMMER
-Nixon in China,Adams,1987,Houston,WE,SOUTH,SUMMER
-The Death of Klinghoffer,Adams,1991,Brussels,WE,WEST,AUTUMN
-Doctor Atomic,Adams,2005,San Francisco,THEY,SOUTH,AUTUMN
-L’Amour de loin,Saariaho,2000,Salzburg,YOU,WEST,AUTUMN
-Adriana Mater,Saariaho,2006,Paris,YOU,SOUTH,AUTUMN
-Only the Sound Remains,Saariaho,2016,Amsterdam,THEY,NORTH,WINTER
-Written on Skin,Benjamin,2012,Aix-en-Provence,ME,WEST,AUTUMN
-Lessons in Love and Violence,Benjamin,2018,London,ME,WEST,AUTUMN
-The Tempest,Adès,2004,London,THEY,EAST,SUMMER
-Powder Her Face,Adès,1995,London,YOU,WEST,SUMMER
-The Exterminating Angel,Adès,2016,Salzburg,THEY,NORTH,WINTER
-The Minotaur,Birtwistle,2008,London,THEY,WEST,WINTER
-Gawain,Birtwistle,1991,London,ME,SOUTH,SUMMER
-Punch and Judy,Birtwistle,1968,Aldeburgh,ME,WEST,SUMMER
-The Mask of Orpheus,Birtwistle,1986,London,THEY,NORTH,SUMMER
-King Roger,Szymanowski,1926,Warsaw,ME,NORTH,WINTER
 Peter Grimes,Britten,1945,London,ME,NORTH,AUTUMN
 Billy Budd,Britten,1951,London,WE,SOUTH,SUMMER
 The Turn of the Screw,Britten,1954,Venice,ME,WEST,WINTER
 Death in Venice,Britten,1973,London,THEY,SOUTH,AUTUMN
-Die Soldaten,Zimmermann,1965,Cologne,WE,WEST,WINTER
 Einstein on the Beach,Glass,1976,Avignon,THEY,NORTH,SPRING
-King Priam,Tippett,1962,Coventry,ME,NORTH,WINTER
-The Midsummer Marriage,Tippett,1955,London,THEY,NORTH,SUMMER
-The Greek Passion,Martinů,1961,Zurich,WE,NORTH,AUTUMN
-Julietta,Martinů,1938,Prague,ME,WEST,AUTUMN
+Satyagraha,Glass,1980,Rotterdam,WE,NORTH,SUMMER
+Akhnaten,Glass,1984,Stuttgart,THEY,NORTH,SUMMER
+Nixon in China,Adams,1987,Houston,WE,SOUTH,SUMMER
+The Death of Klinghoffer,Adams,1991,Brussels,WE,WEST,AUTUMN
 The Lighthouse,Maxwell Davies,1980,Edinburgh,THEY,WEST,WINTER
 Eight Songs for a Mad King,Maxwell Davies,1969,London,ME,WEST,WINTER
+Punch and Judy,Birtwistle,1968,Aldeburgh,ME,WEST,SUMMER
+The Mask of Orpheus,Birtwistle,1986,London,THEY,NORTH,SUMMER
+The Minotaur,Birtwistle,2008,London,THEY,WEST,WINTER
+King Priam,Tippett,1962,Coventry,ME,NORTH,WINTER
+The Greek Passion,Martinů,1961,Zurich,WE,NORTH,AUTUMN
+Die Soldaten,Zimmermann,1965,Cologne,WE,WEST,WINTER
+Zaporizhets za Dunayem,Hulak-Artemovsky,1863,St Petersburg,WE,SOUTH,SPRING
+Natalka Poltavka,Lysenko,1889,Kyiv,WE,SOUTH,SPRING
+Taras Bulba,Lysenko,1890,Kyiv,WE,SOUTH,SUMMER
+Utoplena,Lysenko,1883,Kyiv,ME,SOUTH,AUTUMN
+Eneida,Lysenko,1910,Kyiv,ME,SOUTH,SPRING
+Kateryna,Arkas,1899,Mykolaiv,ME,SOUTH,AUTUMN
+Moses,Skoryk,2001,Lviv,ME,EAST,WINTER
+Tsvit paporoti,Stankovych,2011,Lviv,WE,SOUTH,SUMMER
+Arsenal,Maiboroda,1960,Kyiv,WE,EAST,WINTER
+Mylana,Maiboroda,1957,Kyiv,ME,SOUTH,SPRING
+King Roger,Szymanowski,1926,Warsaw,ME,NORTH,WINTER
+Written on Skin,Benjamin,2012,Aix-en-Provence,ME,WEST,AUTUMN
+Lessons in Love and Violence,Benjamin,2018,London,ME,WEST,AUTUMN
+L’Amour de loin,Saariaho,2000,Salzburg,YOU,WEST,AUTUMN
+Adriana Mater,Saariaho,2006,Paris,YOU,SOUTH,AUTUMN
+Only the Sound Remains,Saariaho,2016,Amsterdam,THEY,NORTH,WINTER
+The Tempest,Adès,2004,London,THEY,EAST,SUMMER
+Powder Her Face,Adès,1995,London,YOU,WEST,SUMMER
+The Exterminating Angel,Adès,2016,Salzburg,THEY,NORTH,WINTER
+Aida,Verdi,1871,Cairo,WE,NORTH,SPRING
+King Arthur,Purcell,1691,London,WE,NORTH,SPRING
+Dido and Aeneas,Purcell,1689,London,YOU,WEST,AUTUMN
+Il tabarro,Puccini,1918,New York,ME,WEST,AUTUMN
+Suor Angelica,Puccini,1918,New York,YOU,NORTH,AUTUMN
+Gianni Schicchi,Puccini,1918,New York,ME,SOUTH,SUMMER
+The Consul,Menotti,1950,Philadelphia,YOU,NORTH,WINTER
