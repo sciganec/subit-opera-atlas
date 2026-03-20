@@ -2,6 +2,7 @@
   {"title":"L'Orfeo","composer":"Monteverdi","year":1607,"premiere_city":"Mantua","WHO":"ME","WHERE":"EAST","WHEN":"SPRING"},
   {"title":"Il ritorno d’Ulisse in patria","composer":"Monteverdi","year":1640,"premiere_city":"Venice","WHO":"ME","WHERE":"EAST","WHEN":"AUTUMN"},
   {"title":"L’incoronazione di Poppea","composer":"Monteverdi","year":1643,"premiere_city":"Venice","WHO":"ME","WHERE":"EAST","WHEN":"WINTER"},
+
   {"title":"Dido and Aeneas","composer":"Purcell","year":1689,"premiere_city":"London","WHO":"YOU","WHERE":"WEST","WHEN":"AUTUMN"},
   {"title":"King Arthur","composer":"Purcell","year":1691,"premiere_city":"London","WHO":"WE","WHERE":"NORTH","WHEN":"SPRING"},
   {"title":"The Fairy Queen","composer":"Purcell","year":1692,"premiere_city":"London","WHO":"WE","WHERE":"WEST","WHEN":"SUMMER"},
@@ -33,92 +34,111 @@
   {"title":"Anna Bolena","composer":"Donizetti","year":1830,"premiere_city":"Milan","WHO":"ME","WHERE":"NORTH","WHEN":"SPRING"},
   {"title":"L’elisir d’amore","composer":"Donizetti","year":1832,"premiere_city":"Milan","WHO":"YOU","WHERE":"SOUTH","WHEN":"SPRING"},
   {"title":"Lucia di Lammermoor","composer":"Donizetti","year":1835,"premiere_city":"Naples","WHO":"WE","WHERE":"WEST","WHEN":"SPRING"},
-  {"title":"Don Pasquale","composer":"Donizetti","year":1843,"premiere_city":"Paris","WHO":"YOU","WHERE":"WEST","WHEN":"SPRING"},
-
+  {"title":"I puritani","composer":"Bellini","year":1835,"premiere_city":"Paris","WHO":"YOU","WHERE":"SOUTH","WHEN":"AUTUMN"},
   {"title":"Norma","composer":"Bellini","year":1831,"premiere_city":"Milan","WHO":"ME","WHERE":"NORTH","WHEN":"AUTUMN"},
   {"title":"La sonnambula","composer":"Bellini","year":1831,"premiere_city":"Milan","WHO":"YOU","WHERE":"SOUTH","WHEN":"AUTUMN"},
-  {"title":"I puritani","composer":"Bellini","year":1835,"premiere_city":"Paris","WHO":"YOU","WHERE":"SOUTH","WHEN":"AUTUMN"},
 
+  {"title":"Don Pasquale","composer":"Donizetti","year":1843,"premiere_city":"Paris","WHO":"YOU","WHERE":"WEST","WHEN":"SPRING"},
   {"title":"Nabucco","composer":"Verdi","year":1842,"premiere_city":"Milan","WHO":"WE","WHERE":"EAST","WHEN":"SPRING"},
-  {"title":"Macbeth","composer":"Verdi","year":1847,"premiere_city":"Florence","WHO":"THEY","WHERE":"WEST","WHEN":"AUTUMN"},
+  {"title":"Macbeth","composer":"Verdi","year":1847,"premiere_city":"Florence","WHO":"THEY","WHERE":"WEST","WHEN":"AUTUMN"}
+
   {"title":"Rigoletto","composer":"Verdi","year":1851,"premiere_city":"Venice","WHO":"YOU","WHERE":"EAST","WHEN":"AUTUMN"},
   {"title":"Il trovatore","composer":"Verdi","year":1853,"premiere_city":"Rome","WHO":"ME","WHERE":"SOUTH","WHEN":"SUMMER"},
   {"title":"La traviata","composer":"Verdi","year":1853,"premiere_city":"Venice","WHO":"ME","WHERE":"WEST","WHEN":"AUTUMN"},
   {"title":"Les vêpres siciliennes","composer":"Verdi","year":1855,"premiere_city":"Paris","WHO":"WE","WHERE":"WEST","WHEN":"SUMMER"},
   {"title":"Simon Boccanegra","composer":"Verdi","year":1857,"premiere_city":"Venice","WHO":"THEY","WHERE":"WEST","WHEN":"WINTER"},
   {"title":"Un ballo in maschera","composer":"Verdi","year":1859,"premiere_city":"Rome","WHO":"YOU","WHERE":"WEST","WHEN":"SPRING"},
+  {"title":"Faust","composer":"Gounod","year":1859,"premiere_city":"Paris","WHO":"ME","WHERE":"NORTH","WHEN":"SPRING"},
+
+  {"title":"Les pêcheurs de perles","composer":"Bizet","year":1863,"premiere_city":"Paris","WHO":"ME","WHERE":"SOUTH","WHEN":"SUMMER"},
+  {"title":"Zaporizhets za Dunayem","composer":"Hulak-Artemovsky","year":1863,"premiere_city":"St Petersburg","WHO":"WE","WHERE":"SOUTH","WHEN":"SPRING"},
   {"title":"La forza del destino","composer":"Verdi","year":1862,"premiere_city":"St Petersburg","WHO":"ME","WHERE":"WEST","WHEN":"AUTUMN"},
   {"title":"Don Carlos","composer":"Verdi","year":1867,"premiere_city":"Paris","WHO":"THEY","WHERE":"WEST","WHEN":"AUTUMN"},
-  {"title":"Aida","composer":"Verdi","year":1871,"premiere_city":"Cairo","WHO":"WE","WHERE":"NORTH","WHEN":"SPRING"},
-  {"title":"Otello","composer":"Verdi","year":1887,"premiere_city":"Milan","WHO":"ME","WHERE":"SOUTH","WHEN":"SUMMER"},
-  {"title":"Falstaff","composer":"Verdi","year":1893,"premiere_city":"Milan","WHO":"ME","WHERE":"EAST","WHEN":"AUTUMN"},
-
-  {"title":"Der fliegende Holländer","composer":"Wagner","year":1843,"premiere_city":"Dresden","WHO":"THEY","WHERE":"EAST","WHEN":"AUTUMN"},
-  {"title":"Tannhäuser","composer":"Wagner","year":1845,"premiere_city":"Dresden","WHO":"YOU","WHERE":"NORTH","WHEN":"SUMMER"},
-  {"title":"Lohengrin","composer":"Wagner","year":1850,"premiere_city":"Weimar","WHO":"YOU","WHERE":"WEST","WHEN":"AUTUMN"},
-  {"title":"Tristan und Isolde","composer":"Wagner","year":1865,"premiere_city":"Munich","WHO":"YOU","WHERE":"WEST","WHEN":"SUMMER"},
-  {"title":"Die Walküre","composer":"Wagner","year":1870,"premiere_city":"Munich","WHO":"YOU","WHERE":"SOUTH","WHEN":"WINTER"},
-  {"title":"Das Rheingold","composer":"Wagner","year":1869,"premiere_city":"Munich","WHO":"THEY","WHERE":"NORTH","WHEN":"SPRING"},
-  {"title":"Siegfried","composer":"Wagner","year":1876,"premiere_city":"Bayreuth","WHO":"THEY","WHERE":"SOUTH","WHEN":"SUMMER"},
-  {"title":"Götterdämmerung","composer":"Wagner","year":1876,"premiere_city":"Bayreuth","WHO":"THEY","WHERE":"NORTH","WHEN":"SUMMER"},
-  {"title":"Parsifal","composer":"Wagner","year":1882,"premiere_city":"Bayreuth","WHO":"ME","WHERE":"NORTH","WHEN":"SUMMER"},
-
-  {"title":"Carmen","composer":"Bizet","year":1875,"premiere_city":"Paris","WHO":"YOU","WHERE":"EAST","WHEN":"SUMMER"},
-  {"title":"Les pêcheurs de perles","composer":"Bizet","year":1863,"premiere_city":"Paris","WHO":"ME","WHERE":"SOUTH","WHEN":"SUMMER"},
-
-  {"title":"Faust","composer":"Gounod","year":1859,"premiere_city":"Paris","WHO":"ME","WHERE":"NORTH","WHEN":"SPRING"},
   {"title":"Roméo et Juliette","composer":"Gounod","year":1867,"premiere_city":"Paris","WHO":"ME","WHERE":"WEST","WHEN":"SPRING"},
 
+  {"title":"Das Rheingold","composer":"Wagner","year":1869,"premiere_city":"Munich","WHO":"THEY","WHERE":"NORTH","WHEN":"SPRING"},
+  {"title":"Die Walküre","composer":"Wagner","year":1870,"premiere_city":"Munich","WHO":"YOU","WHERE":"SOUTH","WHEN":"WINTER"},
+  {"title":"Aida","composer":"Verdi","year":1871,"premiere_city":"Cairo","WHO":"WE","WHERE":"NORTH","WHEN":"SPRING"},
   {"title":"Boris Godunov","composer":"Mussorgsky","year":1874,"premiere_city":"St Petersburg","WHO":"WE","WHERE":"SOUTH","WHEN":"SUMMER"},
-  {"title":"Khovanshchina","composer":"Mussorgsky","year":1886,"premiere_city":"Moscow","WHO":"WE","WHERE":"SOUTH","WHEN":"AUTUMN"},
-  {"title":"Prince Igor","composer":"Borodin","year":1890,"premiere_city":"St Petersburg","WHO":"WE","WHERE":"NORTH","WHEN":"AUTUMN"},
-
+  {"title":"Carmen","composer":"Bizet","year":1875,"premiere_city":"Paris","WHO":"YOU","WHERE":"EAST","WHEN":"SUMMER"},
+  {"title":"Siegfried","composer":"Wagner","year":1876,"premiere_city":"Bayreuth","WHO":"THEY","WHERE":"SOUTH","WHEN":"SUMMER"},
+  {"title":"Götterdämmerung","composer":"Wagner","year":1876,"premiere_city":"Bayreuth","WHO":"THEY","WHERE":"NORTH","WHEN":"SUMMER"},
   {"title":"Eugene Onegin","composer":"Tchaikovsky","year":1879,"premiere_city":"Moscow","WHO":"ME","WHERE":"WEST","WHEN":"SUMMER"},
+
+  {"title":"Parsifal","composer":"Wagner","year":1882,"premiere_city":"Bayreuth","WHO":"ME","WHERE":"NORTH","WHEN":"SUMMER"},
+  {"title":"Utoplena","composer":"Lysenko","year":1883,"premiere_city":"Kyiv","WHO":"ME","WHERE":"SOUTH","WHEN":"AUTUMN"},
+  {"title":"Khovanshchina","composer":"Mussorgsky","year":1886,"premiere_city":"Moscow","WHO":"WE","WHERE":"SOUTH","WHEN":"AUTUMN"},
+  {"title":"Natalka Poltavka","composer":"Lysenko","year":1889,"premiere_city":"Kyiv","WHO":"WE","WHERE":"SOUTH","WHEN":"SPRING"},
+  {"title":"Prince Igor","composer":"Borodin","year":1890,"premiere_city":"St Petersburg","WHO":"WE","WHERE":"NORTH","WHEN":"AUTUMN"},
+  {"title":"Taras Bulba","composer":"Lysenko","year":1890,"premiere_city":"Kyiv","WHO":"WE","WHERE":"SOUTH","WHEN":"SUMMER"},
   {"title":"The Queen of Spades","composer":"Tchaikovsky","year":1890,"premiere_city":"St Petersburg","WHO":"ME","WHERE":"SOUTH","WHEN":"WINTER"},
   {"title":"Iolanta","composer":"Tchaikovsky","year":1892,"premiere_city":"St Petersburg","WHO":"ME","WHERE":"EAST","WHEN":"SPRING"},
+  {"title":"Falstaff","composer":"Verdi","year":1893,"premiere_city":"Milan","WHO":"ME","WHERE":"EAST","WHEN":"AUTUMN"},
+  {"title":"Manon Lescaut","composer":"Puccini","year":1893,"premiere_city":"Turin","WHO":"WE","WHERE":"WEST","WHEN":"SUMMER"},
+  {"title":"Kateryna","composer":"Arkas","year":1899,"premiere_city":"Mykolaiv","WHO":"ME","WHERE":"SOUTH","WHEN":"AUTUMN"}
 
   {"title":"Pelléas et Mélisande","composer":"Debussy","year":1902,"premiere_city":"Paris","WHO":"ME","WHERE":"EAST","WHEN":"AUTUMN"},
-
   {"title":"Jenůfa","composer":"Janáček","year":1904,"premiere_city":"Brno","WHO":"ME","WHERE":"WEST","WHEN":"AUTUMN"},
-  {"title":"Káťa Kabanová","composer":"Janáček","year":1921,"premiere_city":"Brno","WHO":"YOU","WHERE":"WEST","WHEN":"AUTUMN"},
-  {"title":"The Makropulos Affair","composer":"Janáček","year":1926,"premiere_city":"Brno","WHO":"ME","WHERE":"NORTH","WHEN":"AUTUMN"},
-  {"title":"From the House of the Dead","composer":"Janáček","year":1930,"premiere_city":"Brno","WHO":"WE","WHERE":"NORTH","WHEN":"WINTER"},
 
   {"title":"Bluebeard’s Castle","composer":"Bartók","year":1918,"premiere_city":"Budapest","WHO":"YOU","WHERE":"WEST","WHEN":"WINTER"},
+  {"title":"Il tabarro","composer":"Puccini","year":1918,"premiere_city":"New York","WHO":"ME","WHERE":"WEST","WHEN":"AUTUMN"},
+  {"title":"Suor Angelica","composer":"Puccini","year":1918,"premiere_city":"New York","WHO":"YOU","WHERE":"NORTH","WHEN":"AUTUMN"},
+  {"title":"Gianni Schicchi","composer":"Puccini","year":1918,"premiere_city":"New York","WHO":"ME","WHERE":"SOUTH","WHEN":"SUMMER"},
 
-  {"title":"Wozzeck","composer":"Berg","year":1925,"premiere_city":"Berlin","WHO":"ME","WHERE":"EAST","WHEN":"WINTER"},
-  {"title":"Lulu","composer":"Berg","year":1937,"premiere_city":"Zurich","WHO":"THEY","WHERE":"WEST","WHEN":"SUMMER"},
-
-  {"title":"Moses und Aron","composer":"Schoenberg","year":1957,"premiere_city":"Hamburg","WHO":"THEY","WHERE":"NORTH","WHEN":"AUTUMN"},
+  {"title":"Káťa Kabanová","composer":"Janáček","year":1921,"premiere_city":"Brno","WHO":"YOU","WHERE":"WEST","WHEN":"AUTUMN"},
   {"title":"Erwartung","composer":"Schoenberg","year":1924,"premiere_city":"Prague","WHO":"ME","WHERE":"WEST","WHEN":"WINTER"},
   {"title":"Die glückliche Hand","composer":"Schoenberg","year":1924,"premiere_city":"Vienna","WHO":"ME","WHERE":"NORTH","WHEN":"WINTER"},
+  {"title":"Wozzeck","composer":"Berg","year":1925,"premiere_city":"Berlin","WHO":"ME","WHERE":"EAST","WHEN":"WINTER"},
+  {"title":"King Roger","composer":"Szymanowski","year":1926,"premiere_city":"Warsaw","WHO":"ME","WHERE":"NORTH","WHEN":"WINTER"},
+  {"title":"The Makropulos Affair","composer":"Janáček","year":1926,"premiere_city":"Brno","WHO":"ME","WHERE":"NORTH","WHEN":"AUTUMN"},
 
   {"title":"The Nose","composer":"Shostakovich","year":1930,"premiere_city":"Leningrad","WHO":"THEY","WHERE":"NORTH","WHEN":"WINTER"},
+  {"title":"From the House of the Dead","composer":"Janáček","year":1930,"premiere_city":"Brno","WHO":"WE","WHERE":"NORTH","WHEN":"WINTER"},
   {"title":"Lady Macbeth of Mtsensk","composer":"Shostakovich","year":1934,"premiere_city":"Leningrad","WHO":"YOU","WHERE":"EAST","WHEN":"WINTER"},
-  {"title":"Katerina Izmailova","composer":"Shostakovich","year":1963,"premiere_city":"Moscow","WHO":"WE","WHERE":"EAST","WHEN":"WINTER"},
-
+  {"title":"Lulu","composer":"Berg","year":1937,"premiere_city":"Zurich","WHO":"THEY","WHERE":"WEST","WHEN":"SUMMER"},
   {"title":"Carmina Burana","composer":"Orff","year":1937,"premiere_city":"Frankfurt","WHO":"WE","WHERE":"SOUTH","WHEN":"SUMMER"},
-  {"title":"Antigonae","composer":"Orff","year":1949,"premiere_city":"Salzburg","WHO":"THEY","WHERE":"SOUTH","WHEN":"WINTER"},
-
-  {"title":"Dialogues des Carmélites","composer":"Poulenc","year":1957,"premiere_city":"Milan","WHO":"WE","WHERE":"EAST","WHEN":"AUTUMN"},
 
   {"title":"Peter Grimes","composer":"Britten","year":1945,"premiere_city":"London","WHO":"ME","WHERE":"NORTH","WHEN":"AUTUMN"},
+  {"title":"War and Peace","composer":"Prokofiev","year":1945,"premiere_city":"Moscow","WHO":"WE","WHERE":"SOUTH","WHEN":"WINTER"},
+  {"title":"Antigonae","composer":"Orff","year":1949,"premiere_city":"Salzburg","WHO":"THEY","WHERE":"SOUTH","WHEN":"WINTER"},
+  {"title":"The Consul","composer":"Menotti","year":1950,"premiere_city":"Philadelphia","WHO":"YOU","WHERE":"NORTH","WHEN":"WINTER"}
+
   {"title":"Billy Budd","composer":"Britten","year":1951,"premiere_city":"London","WHO":"WE","WHERE":"SOUTH","WHEN":"SUMMER"},
   {"title":"The Turn of the Screw","composer":"Britten","year":1954,"premiere_city":"Venice","WHO":"ME","WHERE":"WEST","WHEN":"WINTER"},
-  {"title":"Death in Venice","composer":"Britten","year":1973,"premiere_city":"London","WHO":"THEY","WHERE":"SOUTH","WHEN":"AUTUMN"},
+  {"title":"Dialogues des Carmélites","composer":"Poulenc","year":1957,"premiere_city":"Milan","WHO":"WE","WHERE":"EAST","WHEN":"AUTUMN"},
+  {"title":"Moses und Aron","composer":"Schoenberg","year":1957,"premiere_city":"Hamburg","WHO":"THEY","WHERE":"NORTH","WHEN":"AUTUMN"},
 
+  {"title":"Mylana","composer":"Maiboroda","year":1957,"premiere_city":"Kyiv","WHO":"ME","WHERE":"SOUTH","WHEN":"SPRING"},
+  {"title":"Arsenal","composer":"Maiboroda","year":1960,"premiere_city":"Kyiv","WHO":"WE","WHERE":"EAST","WHEN":"WINTER"},
+
+  {"title":"The Greek Passion","composer":"Martinů","year":1961,"premiere_city":"Zurich","WHO":"WE","WHERE":"NORTH","WHEN":"AUTUMN"},
+  {"title":"King Priam","composer":"Tippett","year":1962,"premiere_city":"Coventry","WHO":"ME","WHERE":"NORTH","WHEN":"WINTER"},
+  {"title":"Katerina Izmailova","composer":"Shostakovich","year":1963,"premiere_city":"Moscow","WHO":"WE","WHERE":"EAST","WHEN":"WINTER"},
+  {"title":"Die Soldaten","composer":"Zimmermann","year":1965,"premiere_city":"Cologne","WHO":"WE","WHERE":"WEST","WHEN":"WINTER"},
+  {"title":"Punch and Judy","composer":"Birtwistle","year":1968,"premiere_city":"Aldeburgh","WHO":"ME","WHERE":"WEST","WHEN":"SUMMER"},
+  {"title":"Eight Songs for a Mad King","composer":"Maxwell Davies","year":1969,"premiere_city":"London","WHO":"ME","WHERE":"WEST","WHEN":"WINTER"},
+
+  {"title":"The Lighthouse","composer":"Maxwell Davies","year":1980,"premiere_city":"Edinburgh","WHO":"THEY","WHERE":"WEST","WHEN":"WINTER"},
   {"title":"Einstein on the Beach","composer":"Glass","year":1976,"premiere_city":"Avignon","WHO":"THEY","WHERE":"NORTH","WHEN":"SPRING"},
   {"title":"Satyagraha","composer":"Glass","year":1980,"premiere_city":"Rotterdam","WHO":"WE","WHERE":"NORTH","WHEN":"SUMMER"},
   {"title":"Akhnaten","composer":"Glass","year":1984,"premiere_city":"Stuttgart","WHO":"THEY","WHERE":"NORTH","WHEN":"SUMMER"},
 
+  {"title":"The Mask of Orpheus","composer":"Birtwistle","year":1986,"premiere_city":"London","WHO":"THEY","WHERE":"NORTH","WHEN":"SUMMER"},
   {"title":"Nixon in China","composer":"Adams","year":1987,"premiere_city":"Houston","WHO":"WE","WHERE":"SOUTH","WHEN":"SUMMER"},
   {"title":"The Death of Klinghoffer","composer":"Adams","year":1991,"premiere_city":"Brussels","WHO":"WE","WHERE":"WEST","WHEN":"AUTUMN"},
+  {"title":"Powder Her Face","composer":"Adès","year":1995,"premiere_city":"London","WHO":"YOU","WHERE":"WEST","WHEN":"SUMMER"},
 
-  {"title":"The Lighthouse","composer":"Maxwell Davies","year":1980,"premiere_city":"Edinburgh","WHO":"THEY","WHERE":"WEST","WHEN":"WINTER"},
-  {"title":"Eight Songs for a Mad King","composer":"Maxwell Davies","year":1969,"premiere_city":"London","WHO":"ME","WHERE":"WEST","WHEN":"WINTER"},
+  {"title":"Death in Venice","composer":"Britten","year":1973,"premiere_city":"London","WHO":"THEY","WHERE":"SOUTH","WHEN":"AUTUMN"},
 
-  {"title":"Punch and Judy","composer":"Birtwistle","year":1968,"premiere_city":"Aldeburgh","WHO":"ME","WHERE":"WEST","WHEN":"SUMMER"},
-  {"title":"The Mask of Orpheus","composer":"Birtwistle","year":1986,"premiere_city":"London","WHO":"THEY","WHERE":"NORTH","WHEN":"SUMMER"},
+  {"title":"L’Amour de loin","composer":"Saariaho","year":2000,"premiere_city":"Salzburg","WHO":"YOU","WHERE":"WEST","WHEN":"AUTUMN"},
+  {"title":"Moses","composer":"Skoryk","year":2001,"premiere_city":"Lviv","WHO":"ME","WHERE":"EAST","WHEN":"WINTER"},
+  {"title":"The Tempest","composer":"Adès","year":2004,"premiere_city":"London","WHO":"THEY","WHERE":"EAST","WHEN":"SUMMER"},
+  {"title":"Adriana Mater","composer":"Saariaho","year":2006,"premiere_city":"Paris","WHO":"YOU","WHERE":"SOUTH","WHEN":"AUTUMN"},
   {"title":"The Minotaur","composer":"Birtwistle","year":2008,"premiere_city":"London","WHO":"THEY","WHERE":"WEST","WHEN":"WINTER"},
 
-  {"title":"King Priam","composer":"Tippett","year":1962,"premiere_city":"Cov
+  {"title":"Tsvit paporoti","composer":"Stankovych","year":2011,"premiere_city":"Lviv","WHO":"WE","WHERE":"SOUTH","WHEN":"SUMMER"},
+  {"title":"Written on Skin","composer":"Benjamin","year":2012,"premiere_city":"Aix-en-Provence","WHO":"ME","WHERE":"WEST","WHEN":"AUTUMN"},
+  {"title":"Only the Sound Remains","composer":"Saariaho","year":2016,"premiere_city":"Amsterdam","WHO":"THEY","WHERE":"NORTH","WHEN":"WINTER"},
+  {"title":"The Exterminating Angel","composer":"Adès","year":2016,"premiere_city":"Salzburg","WHO":"THEY","WHERE":"NORTH","WHEN":"WINTER"},
+  {"title":"Lessons in Love and Violence","composer":"Benjamin","year":2018,"premiere_city":"London","WHO":"ME","WHERE":"WEST","WHEN":"AUTUMN"}
+]
