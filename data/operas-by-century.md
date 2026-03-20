@@ -1,0 +1,153 @@
+# Operas by Century
+## Алфавітно‑хронологічний покажчик опер за століттями
+### Формат: *title — composer — year — premiere_city — WHO / WHERE / WHEN*
+
+---
+
+# XVII century (1600–1699)
+
+- **L'Orfeo** — Monteverdi — 1607 — Mantua — ME / EAST / SPRING  
+- **Il ritorno d’Ulisse in patria** — Monteverdi — 1640 — Venice — ME / EAST / AUTUMN  
+- **L’incoronazione di Poppea** — Monteverdi — 1643 — Venice — ME / EAST / WINTER  
+- **Dido and Aeneas** — Purcell — 1689 — London — YOU / WEST / AUTUMN  
+- **King Arthur** — Purcell — 1691 — London — WE / NORTH / SPRING  
+- **The Fairy Queen** — Purcell — 1692 — London — WE / WEST / SUMMER  
+
+---
+
+# XVIII century (1700–1799)
+
+## Handel & Gluck era
+- **Giulio Cesare** — Handel — 1724 — London — YOU / NORTH / SPRING  
+- **Rodelinda** — Handel — 1725 — London — YOU / NORTH / AUTUMN  
+- **Alcina** — Handel — 1735 — London — YOU / WEST / SPRING  
+- **Ariodante** — Handel — 1735 — London — ME / WEST / SPRING  
+- **Serse** — Handel — 1738 — London — YOU / WEST / SUMMER  
+- **Orfeo ed Euridice** — Gluck — 1762 — Vienna — THEY / EAST / SPRING  
+- **Alceste** — Gluck — 1767 — Vienna — ME / NORTH / WINTER  
+- **Armide** — Gluck — 1777 — Paris — YOU / EAST / AUTUMN  
+- **Iphigénie en Tauride** — Gluck — 1779 — Paris — ME / NORTH / AUTUMN  
+
+## Mozart era
+- **Mitridate** — Mozart — 1770 — Milan — ME / EAST / SPRING  
+- **Lucio Silla** — Mozart — 1772 — Milan — ME / EAST / SPRING  
+- **Idomeneo** — Mozart — 1781 — Munich — ME / EAST / SUMMER  
+- **Die Entführung aus dem Serail** — Mozart — 1782 — Vienna — ME / EAST / SUMMER  
+- **Le nozze di Figaro** — Mozart — 1786 — Vienna — ME / SOUTH / SPRING  
+- **Don Giovanni** — Mozart — 1787 — Prague — YOU / EAST / SPRING  
+- **Così fan tutte** — Mozart — 1790 — Vienna — YOU / SOUTH /SPRING  
+- **La clemenza di Tito** — Mozart — 1791 — Prague — THEY / EAST / AUTUMN  
+
+---
+
+# XIX century (1800–1899)
+
+## Early Romantic (Weber, Bellini, Donizetti)
+- **Der Freischütz** — Weber — 1821 — Berlin — ME / WEST / SPRING  
+- **Euryanthe** — Weber — 1823 — Vienna — ME / EAST / AUTUMN  
+- **Oberon** — Weber — 1826 — London — ME / EAST / SUMMER  
+- **La sonnambula** — Bellini — 1831 — Milan — YOU / SOUTH / AUTUMN  
+- **Norma** — Bellini — 1831 — Milan — ME / NORTH / AUTUMN  
+- **I puritani** — Bellini — 1835 — Paris — YOU / SOUTH / AUTUMN  
+- **Anna Bolena** — Donizetti — 1830 — Milan — ME / NORTH / SPRING  
+- **L’elisir d’amore** — Donizetti — 1832 — Milan — YOU / SOUTH / SPRING  
+- **Lucia di Lammermoor** — Donizetti — 1835 — Naples — WE / WEST / SPRING  
+- **Don Pasquale** — Donizetti — 1843 — Paris — YOU / WEST / SPRING  
+
+## Verdi
+- **Nabucco** — Verdi — 1842 — Milan — WE / EAST / SPRING  
+- **Macbeth** — Verdi — 1847 — Florence — THEY / WEST / AUTUMN  
+- **Rigoletto** — Verdi — 1851 — Venice — YOU / EAST / AUTUMN  
+- **Il trovatore** — Verdi — 1853 — Rome — ME / SOUTH / SUMMER  
+- **La traviata** — Verdi — 1853 — Venice — ME / WEST / AUTUMN  
+- **Les vêpres siciliennes** — Verdi — 1855 — Paris — WE / WEST / SUMMER  
+- **Simon Boccanegra** — Verdi — 1857 — Venice — THEY / WEST / WINTER  
+- **Un ballo in maschera** — Verdi — 1859 — Rome — YOU / WEST / SPRING  
+- **La forza del destino** — Verdi — 1862 — St Petersburg — ME / WEST / AUTUMN  
+- **Don Carlos** — Verdi — 1867 — Paris — THEY / WEST / AUTUMN  
+- **Aida** — Verdi — 1871 — Cairo — WE / NORTH / SPRING  
+- **Otello** — Verdi — 1887 — Milan — ME / SOUTH / SUMMER  
+- **Falstaff** — Verdi — 1893 — Milan — ME / EAST / AUTUMN  
+
+## Wagner
+- **Der fliegende Holländer** — Wagner — 1843 — Dresden — THEY / EAST / AUTUMN  
+- **Tannhäuser** — Wagner — 1845 — Dresden — YOU / NORTH / SUMMER  
+- **Lohengrin** — Wagner — 1850 — Weimar — YOU / WEST / AUTUMN  
+- **Tristan und Isolde** — Wagner — 1865 — Munich — YOU / WEST / SUMMER  
+- **Die Walküre** — Wagner — 1870 — Munich — YOU / SOUTH / WINTER  
+- **Siegfried** — Wagner — 1876 — Bayreuth — THEY / SOUTH / SUMMER  
+- **Götterdämmerung** — Wagner — 1876 — Bayreuth — THEY / NORTH / SUMMER  
+- **Das Rheingold** — Wagner — 1869 — Munich — THEY / NORTH / SPRING  
+- **Parsifal** — Wagner — 1882 — Bayreuth — ME / NORTH / SUMMER  
+
+## French & Russian
+- **Carmen** — Bizet — 1875 — Paris — YOU / EAST / SUMMER  
+- **Faust** — Gounod — 1859 — Paris — ME / NORTH / SPRING  
+- **Roméo et Juliette** — Gounod — 1867 — Paris — ME / WEST / SPRING  
+- **Les pêcheurs de perles** — Bizet — 1863 — Paris — ME / SOUTH / SUMMER  
+- **Eugene Onegin** — Tchaikovsky — 1879 — Moscow — ME / WEST / SUMMER  
+- **The Queen of Spades** — Tchaikovsky — 1890 — St Petersburg — ME / SOUTH / WINTER  
+- **Iolanta** — Tchaikovsky — 1892 — St Petersburg — ME / EAST / SPRING  
+- **Prince Igor** — Borodin — 1890 — St Petersburg — WE / NORTH / AUTUMN  
+- **Boris Godunov** — Mussorgsky — 1874 — St Petersburg — WE / SOUTH / SUMMER  
+- **Khovanshchina** — Mussorgsky — 1886 — Moscow — WE / SOUTH / AUTUMN  
+
+---
+
+# XX century (1900–1999)
+
+## Early modernism
+- **Pelléas et Mélisande** — Debussy — 1902 — Paris — ME / EAST / AUTUMN  
+- **Jenůfa** — Janáček — 1904 — Brno — ME / WEST / AUTUMN  
+- **Káťa Kabanová** — Janáček — 1921 — Brno — YOU / WEST / AUTUMN  
+- **The Makropulos Affair** — Janáček — 1926 — Brno — ME / NORTH / AUTUMN  
+- **From the House of the Dead** — Janáček — 1930 — Brno — WE / NORTH / WINTER  
+
+## Expressionism
+- **Bluebeard’s Castle** — Bartók — 1918 — Budapest — YOU / WEST / WINTER  
+- **Wozzeck** — Berg — 1925 — Berlin — ME / EAST / WINTER  
+- **Lulu** — Berg — 1937 — Zurich — THEY / WEST / SUMMER  
+- **Moses und Aron** — Schoenberg — 1957 — Hamburg — THEY / NORTH / AUTUMN  
+- **Erwartung** — Schoenberg — 1924 — Prague — ME / WEST / WINTER  
+- **Die glückliche Hand** — Schoenberg — 1924 — Vienna — ME / NORTH / WINTER  
+
+## Shostakovich & Soviet
+- **The Nose** — Shostakovich — 1930 — Leningrad — THEY / NORTH / WINTER  
+- **Lady Macbeth of Mtsensk** — Shostakovich — 1934 — Leningrad — YOU / EAST / WINTER  
+- **Katerina Izmailova** — Shostakovich — 1963 — Moscow — WE / EAST / WINTER  
+
+## Mid‑century
+- **Carmina Burana** — Orff — 1937 — Frankfurt — WE / SOUTH / SUMMER  
+- **Antigonae** — Orff — 1949 — Salzburg — THEY / SOUTH / WINTER  
+- **Dialogues des Carmélites** — Poulenc — 1957 — Milan — WE / EAST / AUTUMN  
+- **Peter Grimes** — Britten — 1945 — London — ME / NORTH / AUTUMN  
+- **Billy Budd** — Britten — 1951 — London — WE / SOUTH / SUMMER  
+- **The Turn of the Screw** — Britten — 1954 — Venice — ME / WEST / WINTER  
+- **Death in Venice** — Britten — 1973 — London — THEY / SOUTH / AUTUMN  
+
+## Late modernism & minimalism
+- **Einstein on the Beach** — Glass — 1976 — Avignon — THEY / NORTH / SPRING  
+- **Satyagraha** — Glass — 1980 — Rotterdam — WE / NORTH / SUMMER  
+- **Akhnaten** — Glass — 1984 — Stuttgart — THEY / NORTH / SUMMER  
+- **Nixon in China** — Adams — 1987 — Houston — WE / SOUTH / SUMMER  
+- **The Death of Klinghoffer** — Adams — 1991 — Brussels — WE / WEST / AUTUMN  
+
+## Avant‑garde
+- **The Lighthouse** — Maxwell Davies — 1980 — Edinburgh — THEY / WEST / WINTER  
+- **Eight Songs for a Mad King** — Maxwell Davies — 1969 — London — ME / WEST / WINTER  
+- **The Minotaur** — Birtwistle — 2008 — London — THEY / WEST / WINTER *(XXI, але стилістично XX)*  
+- **Punch and Judy** — Birtwistle — 1968 — Aldeburgh — ME / WEST / SUMMER  
+- **The Mask of Orpheus** — Birtwistle — 1986 — London — THEY / NORTH / SUMMER  
+
+---
+
+# XXI century (2000–2024)
+
+- **L’Amour de loin** — Saariaho — 2000 — Salzburg — YOU / WEST / AUTUMN  
+- **Adriana Mater** — Saariaho — 2006 — Paris — YOU / SOUTH / AUTUMN  
+- **Only the Sound Remains** — Saariaho — 2016 — Amsterdam — THEY / NORTH / WINTER  
+- **Written on Skin** — Benjamin — 2012 — Aix-en-Provence — ME / WEST / AUTUMN  
+- **Lessons in Love and Violence** — Benjamin — 2018 — London — ME / WEST / AUTUMN  
+- **The Tempest** — Adès — 2004 — London — THEY / EAST / SUMMER  
+- **The Exterminating Angel** — Adès — 2016 — Salzburg — THEY / NORTH / WINTER  
+
